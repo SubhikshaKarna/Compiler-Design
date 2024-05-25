@@ -1,0 +1,13 @@
+S->tm()B
+B->bMd
+B->bDd
+M->NM
+M->N
+N->D
+N->W
+N->eoeoe;
+D->tL;
+L->v,L
+L->voa,L
+L->v
+W->l(e)bMd

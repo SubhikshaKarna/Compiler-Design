@@ -1,0 +1,8 @@
+int main ( )
+begin
+ int n , re = 0 , rem ;
+ while ( expr )
+ begin
+ expr = expr + expr ;
+ end
+end
